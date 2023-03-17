@@ -1,0 +1,19 @@
+{
+
+      name: "Ahn",
+
+      userImage: "https://placeimg.com/100/100/tech",
+
+      postImage: "https://placeimg.com/640/480/e.jpg",
+
+      likes: 10,
+
+      date: "July 30",
+
+      liked: false,
+
+      content: "더보기랑 1234",
+
+      filter: "fit"
+
+    },
